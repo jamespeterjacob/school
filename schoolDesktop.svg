@@ -28,7 +28,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.678125"
      inkscape:cx="317.76534"
-     inkscape:cy="292.5886"
+     inkscape:cy="776.19684"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,12 +55,13 @@
      id="layer1">
     <g
        id="g839"
-       transform="translate(41.74808,-71.400922)">
+       transform="matrix(0.26178008,0,0,0.26178008,65.619146,-11.743993)"
+       style="stroke-width:3.82000041">
       <image
          width="357.45209"
          height="162.45416"
          preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
+         style="stroke-width:3.82000041;image-rendering:optimizeQuality"
          xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABUcAAAJmCAIAAADw6qawAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
 nOy9e6xV1b0v/h1zrb1ZwAaWsBUUlIeggIhCC1eoWOFWIrZwWk/1iKnNOaZt+mvOaZqbprk5f/Qm
 zU3TGNM09sQY2qjRRoyco422YrAXDFiw0ANCEURBHt3Ioxtd4AYXe805vr8/xuv7HWPMtVHw9FDH
@@ -7239,7 +7240,7 @@ AAAAAElFTkSuQmCC
          width="357.45209"
          height="142.34584"
          preserveAspectRatio="none"
-         style="image-rendering:optimizeQuality"
+         style="stroke-width:3.82000041;image-rendering:optimizeQuality"
          xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABUcAAAIaCAIAAACMCmsKAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4
 nOzdeVxU9foH8Ie4OUaGKeDWoAi4Da6AsohArLlX+HPDJc2bWpmWZXbTa14tl/QWmTdLkswwM8gQ
 SNkXgYEQBJFxA9wmRVFRNHTc5vfHgcPszMosfN6v+/LOnDnne74D8ZzznO9mdfv2PbJkYrHYUCUT
